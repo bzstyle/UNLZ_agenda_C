@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1624567375 source:c:\users\jakim\desktop\practicas c\codeblock\agendav1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1624566794 source:c:\users\jakim\desktop\practicas c\codeblock\agendav1.2\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1624565054 c:\users\jakim\desktop\practicas c\codeblock\agendav1.2\funciones.h
+
